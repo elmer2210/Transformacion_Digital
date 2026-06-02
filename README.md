@@ -1,4 +1,4 @@
-readme_content = """# La Importancia de la Transformación Digital en la Ciencia de Datos
+# La Importancia de la Transformación Digital en la Ciencia de Datos
 
 ## Descripción General
 Este repositorio contiene un análisis reflexivo sobre cómo la **Transformación Digital** y la **Ciencia de Datos** se entrelazan para revolucionar las organizaciones modernas. La transformación digital no consiste únicamente en adoptar nuevas tecnologías, sino en un cambio cultural profundo que redefine procesos, mientras que la Ciencia de Datos actúa como el motor analítico que extrae valor, patrones y predicciones de esa nueva infraestructura digital.
